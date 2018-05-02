@@ -1,6 +1,6 @@
 # Machine-Learning-Resources
 
-<b><u>Neural Netowrks</u></b>
+<b><u>Neural Networks</u></b>
 
   * Regularization with TensorFlow: http://www.ritchieng.com/machine-learning/deep-learning/tensorflow/regularization/  
   * Keras Simple CNN Starter | Kaggle: https://www.kaggle.com/CVxTz/keras-simple-cnn-starter  
@@ -11,7 +11,7 @@
   * Model exploration (shallow NN with embeddings) | Kaggle: https://www.kaggle.com/jeremytjordan/model-exploration-shallow-nn-with-embeddings   
   * Predicting Fraud with TensorFlow | Kaggle: https://www.kaggle.com/currie32/predicting-fraud-with-tensorflow 
   
-<b><u>Tensroflow</u></b>
+<b><u>Tensorflow</u></b>
 
   * Using Tensorflow and Support Vector Machine to Create an Image Classifications Engine: https://code.oursky.com/tensorflow-svm-image-classifications-engine/  
   * A Guide to TF Layers: Building a Convolutional Neural Network  |  TensorFlow: https://www.tensorflow.org/tutorials/layers  
