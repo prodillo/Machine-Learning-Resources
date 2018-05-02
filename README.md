@@ -85,6 +85,7 @@
 
   * Multi-Class Text Classification with PySpark: https://datascienceplus.com/multi-class-text-classification-with-pyspark/  
   * Apache Spark Tutorial: Machine Learning (article): https://www.datacamp.com/community/tutorials/apache-spark-tutorial-machine-learning 
+  * Movie recommender system with Spark: https://datascience.ibm.com/exchange/public/entry/view/99b857815e69353c04d95daefb3b91fa 
 
 <b><u>Time Series</u></b>
   
@@ -97,6 +98,10 @@
   * Bishop-Pattern Recognition: https://pdfs.semanticscholar.org/f9b5/c4fcb8d4f0571f437b001d464c128f24265a.pdf 
   * Introduction to Statistical Learning: http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf 
   
+<b><u>Datasets</u></b>
+
+* Datasets | DePaul University - Center for Data Mining & Predictive Analytics: http://dampa.cdm.depaul.edu/resources/datasets/ 
+
 <b><u>Miscelaneous</u></b>
 
   * Tips and tricks to win kaggle data science competitions: https://www.slideshare.net/DariusBaruauskas/tips-and-tricks-to-win-kaggle-data-science-competitions 
