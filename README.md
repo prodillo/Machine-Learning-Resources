@@ -10,6 +10,7 @@
   * Models/object_detection_tutorial.ipynb at master · tensorflow/models · GitHub: https://github.com/tensorflow/models/blob/master/research/object_detection/object_detection_tutorial.ipynb  
   * Model exploration (shallow NN with embeddings) | Kaggle: https://www.kaggle.com/jeremytjordan/model-exploration-shallow-nn-with-embeddings   
   * Predicting Fraud with TensorFlow | Kaggle: https://www.kaggle.com/currie32/predicting-fraud-with-tensorflow 
+  * Transformers | Harvard NLP, The Annotated Transformer: http://nlp.seas.harvard.edu/2018/04/03/attention.html
   
 <b><u>Tensorflow</u></b>
 
